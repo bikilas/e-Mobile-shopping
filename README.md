@@ -1,10 +1,9 @@
 # e-commerce-Mobile
-# e-commerce-Mobile### To intsall all the required dependecies
-```
+# e-commerce-Mobile### To intsall all the required dependec
 
+Here is the published form of the project
 https://e-commerce-mobile01.onrender.com
 
-```
 
 ```
 npm install
