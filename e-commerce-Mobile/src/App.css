@@ -4,22 +4,22 @@
 
 :root {
  --mainBlue:#2a2a72;
- --lightBlue:#009ffd;
- --mainWhite:#f3f3f3;
- --mainDark:#232528;
+ --lightBlue:#fdfd00;
+ --mainWhite:#3215ee;
+ --mainDark:#d622ed;
  --mainYellow:#ffa400;
 }
 .bg-slate-900{
-  background-color: #1F2937;
+  background-color: hsl(238, 87%, 38%);
 }
 .bg-slate-800{
-  background-color: #2D3748;
+  background-color: #040c19;
 }
 .themes{
   font-size:x-large;
 }
 .cardbg{
-  background-color: #2D3748;
+  background-color: #78e72e;
 }
 .paddinglr{
   width: 100%;
@@ -31,7 +31,7 @@
   height: fit-content;
 }
 .hover:hover{
-  color: #009ffd;
+  color: #00fd2a;
 }
 .menubar{
   border:#979393 1px solid;
@@ -41,7 +41,7 @@
   font-size: x-large;
 }
 .bg-slate-200{
-  background-color: #b1bac4;
+  background-color: #0a77f3;
 }
 .resmenu{
   display: flex;
